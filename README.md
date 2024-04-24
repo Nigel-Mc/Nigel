@@ -10,8 +10,8 @@ href="https://github.com/Nigel-Mc/Nigel/edit/main/README.md">Programmer</a>, <a
 
 
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on leaning CC+
-- 🤔 I’m looking for help with CC+
+- 👯 I’m looking to collaborate on leaning Security CC+
+- 🤔 I’m looking for help with Security CC+ 
 - 📫 How to reach me: Email - Nigel.mccloud@bison.howard.edu #678-972-6684
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play D1 soccer @ Howard University
