@@ -3,7 +3,8 @@ href="https://github.com/Nigel-Mc/Nigel/edit/main/README.md">Programmer</a>, <a
                                                                               href="[(https://www.linkedin.com/in/nigel-mccloud-202052262)]">Cybersecurity 
   
 <h2> 🤳 Connect with me:</h2>
-[instagram]: ["https://www.instagram.com/n_mccloud29/?hl=en" ](https://www.instagram.com/n_mccloud29/?hl=en) 
+[instagram]: ["https://www.instagram.com/n_mccloud29/?hl=en" ]
+
 [linkedin]: "https://www.linkedin.com/in/nigel-mccloud-202052262"
 
 
